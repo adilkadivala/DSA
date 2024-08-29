@@ -111,7 +111,7 @@ void pattern8(int n)
         }
 
         // stars
-        for (int j = 0; j < 2*n - (2 * i + 1); j++)
+        for (int j = 0; j < 2 * n - (2 * i + 1); j++)
         {
             cout << "*";
         }
